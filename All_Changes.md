@@ -58,6 +58,7 @@
 - ![alt text](image-22.png)![alt text](image-19.png)
 - Now no option of Full Payment.
 - ![alt text](image-23.png)
+- In all platforms, the status should be "confirmed" not "completed"
 
 > b) Pay Full Payment:
 
@@ -70,6 +71,7 @@
 - Payment Sucessfull. Now status showing completed in all platforms:
 - ![alt text](image-26.png)
 - ![alt text](image-25.png)
+- In all platforms, the status should be "confirmed" not "completed"
 
 # Admin_Panel:
 
