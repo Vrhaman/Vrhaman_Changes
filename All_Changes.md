@@ -76,7 +76,7 @@
 # Admin_Panel:
 
 - All users are showing inactive even if we are using the customer app.
-
+- Number of users in not same in dashboard and useres section. For example, in dashboard it is 10 and in users section it is 53.
 # Customer:
 
 - Add terms & privacy and About Vrhaman.
